@@ -34,11 +34,97 @@ I'm **Farhan**, a final-year B.Tech Computer Science student focused on building
 
 ## 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,java,python,git,github,vscode&perline=7" alt="Technology icons" />
+<!-- Languages -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=💻%20Programming%20Languages&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/><br><b>JavaScript</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br><b>TypeScript</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><b>Java</b></td>
+</tr>
+</table>
 </div>
 
 ---
+
+<!-- Frontend -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Frontend%20Development&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><b>React</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br><b>Next.js</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br><b>Tailwind</b></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><b>HTML5</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><b>CSS3</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Backend -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=⚙️%20Backend%20Development&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><b>Node.js</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br><b>Express</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Databases -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🗄️%20Databases&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><b>MongoDB</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><b>Firebase</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Cloud & Hosting -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=💻%20Cloud%20Hosting&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br><b>Vercel</b></td>
+<td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="48"/><br><b>Render</b></td>
+<td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="48"/><br><b>Hostinger</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Others -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Other%20Tools&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+
+<div align="center"><br/>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br><b>Postman</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><b>VS Code</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><b>Git</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><b>GitHub</b></td>
+</tr>
+</table>
+</div>
+
 
 ## 🚀 Selected Projects
 
@@ -87,8 +173,6 @@ I'm **Farhan**, a final-year B.Tech Computer Science student focused on building
 <img src="https://streak-stats.demolab.com?user=Farhan8271git&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
-
-> Stats cards are served by external services, so their availability may occasionally vary. Your native GitHub contribution calendar remains available on your profile.
 
 ---
 
