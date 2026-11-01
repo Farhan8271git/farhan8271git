@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,50:102A43,100:0D1117&text=FARHAN%20%7C%20DEVELOPER&fontColor=58D5C9&fontSize=34&fontAlignY=42&desc=Full%20Stack%20Development%20%E2%80%A2%20Secure%20Software%20%E2%80%A2%20Real%20Projects&descAlignY=66&descSize=14" width="100%" alt="Farhan developer banner" />
@@ -173,6 +172,28 @@ I'm **Farhan**, a final-year B.Tech Computer Science student focused on building
 <img src="https://streak-stats.demolab.com?user=Farhan8271git&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
+
+---
+
+## 🧠 My Developer Philosophy
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=58D5C9&center=true&vCenter=true&width=700&lines=Understand+the+problem+before+writing+code.;Find+the+root+cause%2C+not+just+the+symptom.;Build+software+that+is+maintainable+and+secure." alt="Developer Philosophy"/>
+
+</p>
+
+<p align="center">
+<i>
+"I don't just write code to make things work.
+I dig deeper to understand the logic,
+solve the root problem, and build something better."
+</i>
+</p>
+
+<p align="center">
+<b>Curiosity drives me. Engineering challenges me. Continuous learning moves me forward.</b>
+</p>
 
 ---
 
